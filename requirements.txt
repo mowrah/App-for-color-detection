@@ -2,5 +2,5 @@ numpy==1.21.6
 opencv_contrib_python==4.7.0.72
 opencv_python==4.8.1.78
 scikit_learn==1.0.2
-scipy==1.11.4
+scipy==1.7.3
 streamlit==1.22.0
